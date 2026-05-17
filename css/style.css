@@ -168,9 +168,9 @@ h2 {
   margin-right: 60px;
 }
 
-.footer {
+.cta {
   color: #e5e7eb;
-  margin: 80px 0;
+  margin: 100px 0;
   background-color: #3882f6;
   border-radius: 10px;
   padding: 50px 100px;
@@ -180,7 +180,14 @@ h2 {
   gap: 100px;
 }
 
-.footer h3 {
+.cta h3 {
   color: #f9faf8;
   margin-bottom: 10px;
+}
+
+footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 20px 0;
 }
